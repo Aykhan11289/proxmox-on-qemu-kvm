@@ -46,4 +46,10 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 14. Click the storage 'local' on node to see 'Summary'.
    ![image 13](images/12-install-proxmox.png)
 
+15. Click the 'ISO Images' to see uploaded images.
+   ![image 14](images/13-install-proxmox.png)
+
+16. Click on 'Upload', it will open the 'Upload' window, press 'Select' to select iso from local files.
+   ![image 15](images/14-install-proxmox.png)
+
     

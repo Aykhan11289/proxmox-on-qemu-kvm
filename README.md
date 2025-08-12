@@ -101,7 +101,7 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 
 32. Click on 'Upload', it will open the 'Upload' window, press 'Select' to select iso from local files.
-   ![image 31](images/37-install-proxmox-upload-windows-10-vm.png)
+   ![image 31](images/37-install-proxmox-upload-windows-10-image.png)
 
 
 33. After successfully uploading, you will get a 'TASK OK' output. 

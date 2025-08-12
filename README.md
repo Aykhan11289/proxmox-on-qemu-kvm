@@ -141,23 +141,23 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 
 42. Choose 'console' to see the installation menu. Select which installation method is apropriate for you.
-
+   ![image 41](images/48-install-proxmox-install-windows-10-vm.png)
 
 
 43. Booting Windows 10 virtual machine.
-
+   ![image 42](images/50-install-proxmox-run-windows-10-vm.png)
 
 
 44. Overview of the datacenter with all nodes and virtual machines.
-
+   ![image 43](images/51-install-proxmox-datacenter-overview.png)
 
 
 45. The node summary.
-
+   ![image 44](images/52-install-proxmox-node-overview.png)
 
 
 46. The Debian Virtual Machine summary.
-
+   ![image 45](images/53-install-proxmox-summary-debian-vm.png)
 
 
 47. The Windows 10 Virtual Machine summary.

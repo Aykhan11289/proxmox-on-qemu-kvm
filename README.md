@@ -1,4 +1,4 @@
-# Proxmox on QEMU/KVM with Debian & Windows VMs
+   # Proxmox on QEMU/KVM with Debian & Windows VMs
  Proxmox Virtual Environment (Proxmox VE) is a powerful open-source platform for managing virtual machines and containers. It's widely used in production, but it's also perfect for creating a study lab to experiment and learn.
 
 In this tutorial, we'll go one step deeper and run Proxmox inside QEMU/KVM. This 'nested' setup lets you try Proxmox without needing a dedicated server - all you need is a Linux host with virtualization enabled.

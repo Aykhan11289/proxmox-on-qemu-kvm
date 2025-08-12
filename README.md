@@ -56,4 +56,4 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
    ![image 16](images/15-install-proxmox-upload-debian-image.png)
 
 18. If you see 'error', try to change the ownership of the file.
-   ![image 16](images/16-install-proxmox-upload-debian-image.png)
+   ![image 17](images/16-install-proxmox-upload-debian-image.png)

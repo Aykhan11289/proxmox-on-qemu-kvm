@@ -105,27 +105,27 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 
 33. After successfully uploading, you will get a 'TASK OK' output. 
-
+   ![image 32](images/39-install-proxmox-upload-windows-10-image-check.png)
 
 
 34. Click the 'Create VM' button, select 'Use CD/DVD disk image file(iso), from the drop-down menu select your local iso image file and press the 'Next'.
-
+   ![image 33](images/40-install-proxmox-create-windows-10-vm.png)
 
 
 35. The 'System' settings leave default and press 'Next'.
-
+   ![image 34](images/41-install-proxmox-create-windows-10-vm.png)
 
 
 36. The 'Disks' settings leave default(If you will challenged to boot a virtual machine, just change 'SCSI0' from drop-down menu to 'SATA'.) and press 'Next'.
-
+   ![image 35](images/42-install-proxmox-create-windows-10-vm.png)
 
 
 37. The 'CPU' settings leave default(you can add more cores if you want) and press 'Next'.
-
+   ![image 36](images/43-install-proxmox-create-windows-10-vm.png)
 
 
 38. For Windows 10 a minimum of 2GB of RAM is suggested for a basic desktop installation, but 4GB or more is preferable. After set up 'Memory' settings press 'Next'.
-
+   ![image 37](images/44-install-proxmox-create-windows-10-vm.png)
 
 
 39. The 'Network' settings leave default and press 'Next'.

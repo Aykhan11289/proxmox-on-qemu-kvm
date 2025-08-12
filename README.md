@@ -12,3 +12,6 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 3. Read the 'End user license agreement' and press 'I agree'.
    ![image 2](images/01-install-proxmox.png)
+
+4.Choose 'Target Harddisk' and press 'Next'.
+   ![image 3](images/02-install-proxmox.png)

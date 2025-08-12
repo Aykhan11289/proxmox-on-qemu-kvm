@@ -10,5 +10,5 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 2. Run the terminal command 'virt-manager' and create 'New virtual machine'. Set up 6GB RAM and 75GB hard drive (if you have more ram and hard disk capacity you can set up more). In the 'Operating system' section, choose Debian 12. Other sections leave 'default'. Start installation. After start you should see the Proxmox VE installation menu. Choose 'Install Proxmox VE(Graphical)'.
    ![image 1](images/00-install-proxmox.png)
 
-   3. Read the 'End user license agreement' and press 'I agree'.
+3. Read the 'End user license agreement' and press 'I agree'.
    ![image 2](images/01-install-proxmox.png)

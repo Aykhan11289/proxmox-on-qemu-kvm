@@ -71,9 +71,11 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
    ![image 21](images/22-install-proxmox-create-debian-vm.png)
 
 23. The 'CPU' settings leave default(you can add more cores if you want) and press 'Next'.
+   ![image 22](images/23-install-proxmox-create-debian-vm.png)
 
 
 24. For Debian a minimum of 1GB of RAM is suggested for a basic desktop installation, but 2GB or more is preferable. After set up 'Memory' settings press 'Next'.
+   ![image 23](images/24-install-proxmox-create-debian-vm.png)
 
 
 25. The 'Network' settings leave default and press 'Next'.

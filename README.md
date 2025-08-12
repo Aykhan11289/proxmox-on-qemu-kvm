@@ -62,4 +62,10 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
    ![image 18](images/18-install-proxmox-upload-debian-image-success.png)
 
 20. Click the 'Create VM' button, select 'Use CD/DVD disk image file(iso), from the drop-down menu select your local iso image file and press the 'Next'.
-   ![image 19](images/20-install-proxmox-create-debian-vm.png) 
+   ![image 19](images/20-install-proxmox-create-debian-vm.png)
+
+21. The 'System' settings leave default and press 'Next'.
+   ![image 20](images/21-install-proxmox-create-debian-vm.png)
+
+22. The 'Disks' settings leave default and press 'Next'.
+   ![image 21](images/22-install-proxmox-create-debian-vm.png)

@@ -88,20 +88,20 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
    ![image 26](images/27-install-proxmox-create-debian-vm.png)
 
 28. Choose 'console' to see the installation menu. Select which installation method is apropriate for you.
-
+   ![image 27](images/28-install-proxmox-install-debian-vm.png)
 
 29. The installation process of the Debian virtual machine.
-
+   ![image 28](images/30-install-proxmox-install-debian-vm.png)
 
 30. Booting after installation.
-
+   ![image 29](images/33-install-proxmox-run-debian-vm.png)
 
 31. Checking the hostname and username of a Virtual Machine.
-
+   ![image 30](images/35-install-proxmox-final-check-debian-vm.png)
 
 
 32. Click on 'Upload', it will open the 'Upload' window, press 'Select' to select iso from local files.
-
+   ![image 31](images/37-install-proxmox-upload-windows-10-vm.png)
 
 
 33. After successfully uploading, you will get a 'TASK OK' output. 

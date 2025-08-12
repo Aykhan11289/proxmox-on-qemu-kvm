@@ -79,13 +79,13 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 
 25. The 'Network' settings leave default and press 'Next'.
-
+   ![image 24](images/25-install-proxmox-create-debian-vm.png)
 
 26. Check all options and click the 'Finish' button.
-
+   ![image 25](images/26-install-proxmox-create-debian-vm.png)
 
 27. Click the 'Start' button to create a Virtual Machine.
-
+   ![image 26](images/27-install-proxmox-create-debian-vm.png)
 
 28. Choose 'console' to see the installation menu. Select which installation method is apropriate for you.
 

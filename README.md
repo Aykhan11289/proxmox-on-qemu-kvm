@@ -52,4 +52,6 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 16. Click on 'Upload', it will open the 'Upload' window, press 'Select' to select iso from local files.
    ![image 15](images/14-install-proxmox-upload-debian-image.png)
 
+17. It will show uploadable file. 
+   ![image 16](images/15-install-proxmox-upload-debian-image.png)
     

@@ -129,15 +129,15 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 
 39. The 'Network' settings leave default and press 'Next'.
-
+   ![image 38](images/45-install-proxmox-create-windows-10-vm.png)
 
 
 40. Check all options and click the 'Finish' button.
-
+   ![image 39](images/46-install-proxmox-create-windows-10-vm.png)
 
 
 41. Click the 'Start' button to create a Virtual Machine.
-
+   ![image 40](images/47-install-proxmox-create-windows-10-vm.png)
 
 
 42. Choose 'console' to see the installation menu. Select which installation method is apropriate for you.

@@ -18,3 +18,19 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 5. Select the 'Country', 'Time zone' and 'Keyboard layout' and press 'Next'.
    ![image 4](images/03-install-proxmox.png)
+   
+6. Enter administration password and valid email address, then press 'Next'.
+   ![image 5](images/04-install-proxmox.png)
+
+7. Select 'Management Interface', if you have FQDN, write it either just leave the default. Other network options just leave the default, then press 'Next'.
+   ![image 6](images/05-install-proxmox.png)
+
+8. Check the 'Summary' and press 'Install'.
+   ![image 7](images/06-install-proxmox.png)
+
+9. The installation process.
+   ![image 8](images/07-install-proxmox.png)
+
+10. After installation, you should see the IP address and port number. It will automatically reboot.
+   ![image 9](images/08-install-proxmox.png)
+    

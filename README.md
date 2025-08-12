@@ -33,4 +33,10 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 10. After installation, you should see the IP address and port number. It will automatically reboot.
    ![image 9](images/08-install-proxmox.png)
+
+11. After reboot it will run in command line mode. Open on your host machine web browser and access the IP address and port which have been given before.
+   ![image 10](images/09-install-proxmox.png)
+
+12. It will open Proxmox VE login window. In the username field enter 'root', in the password field enter your password, then press 'login'.
+   ![image 11](images/10-install-proxmox.png)
     

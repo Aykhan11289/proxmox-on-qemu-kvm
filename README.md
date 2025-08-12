@@ -15,3 +15,6 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 4. Choose 'Target Harddisk' and press 'Next'.
    ![image 3](images/02-install-proxmox.png)
+
+5. Select the 'Country', 'Time zone' and 'Keyboard layout' and press 'Next'.
+   ![image 4](images/03-install-proxmox.png)

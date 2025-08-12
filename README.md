@@ -39,4 +39,8 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 12. It will open Proxmox VE login window. In the username field enter 'root', in the password field enter your password, then press 'login'.
    ![image 11](images/10-install-proxmox.png)
+
+13. Whenever you start Proxmox VE, the 'No valid subscription' window always shows up, just press 'OK'.
+   ![image 12](images/11-install-proxmox.png)
+
     

@@ -57,3 +57,9 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 18. If you see 'error', try to change the ownership of the file.
    ![image 17](images/17-install-proxmox-upload-debian-image-error.png)
+
+19. After successfully uploading, you will get a 'TASK OK' output.
+   ![image 18](images/18-install-proxmox-upload-debian-image-success.png)
+
+20. Click the 'Create VM' button, select 'Use CD/DVD disk image file(iso), from the drop-down menu select your local iso image file and press the 'Next'.
+   ![image 19](images/20-install-proxmox-create-debian-vm.png) 

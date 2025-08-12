@@ -69,3 +69,96 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 22. The 'Disks' settings leave default and press 'Next'.
    ![image 21](images/22-install-proxmox-create-debian-vm.png)
+
+23. The 'CPU' settings leave default(you can add more cores if you want) and press 'Next'.
+
+
+24. For Debian a minimum of 1GB of RAM is suggested for a basic desktop installation, but 2GB or more is preferable. After set up 'Memory' settings press 'Next'.
+
+
+25. The 'Network' settings leave default and press 'Next'.
+
+
+26. Check all options and click the 'Finish' button.
+
+
+27. Click the 'Start' button to create a Virtual Machine.
+
+
+28. Choose 'console' to see the installation menu. Select which installation method is apropriate for you.
+
+
+29. The installation process of the Debian virtual machine.
+
+
+30. Booting after installation.
+
+
+31. Checking the hostname and username of a Virtual Machine.
+
+
+
+32. Click on 'Upload', it will open the 'Upload' window, press 'Select' to select iso from local files.
+
+
+
+33. After successfully uploading, you will get a 'TASK OK' output. 
+
+
+
+34. Click the 'Create VM' button, select 'Use CD/DVD disk image file(iso), from the drop-down menu select your local iso image file and press the 'Next'.
+
+
+
+35. The 'System' settings leave default and press 'Next'.
+
+
+
+36. The 'Disks' settings leave default(If you will challenged to boot a virtual machine, just change 'SCSI0' from drop-down menu to 'SATA'.) and press 'Next'.
+
+
+
+37. The 'CPU' settings leave default(you can add more cores if you want) and press 'Next'.
+
+
+
+38. For Windows 10 a minimum of 2GB of RAM is suggested for a basic desktop installation, but 4GB or more is preferable. After set up 'Memory' settings press 'Next'.
+
+
+
+39. The 'Network' settings leave default and press 'Next'.
+
+
+
+40. Check all options and click the 'Finish' button.
+
+
+
+41. Click the 'Start' button to create a Virtual Machine.
+
+
+
+42. Choose 'console' to see the installation menu. Select which installation method is apropriate for you.
+
+
+
+43. Booting Windows 10 virtual machine.
+
+
+
+44. Overview of the datacenter with all nodes and virtual machines.
+
+
+
+45. The node summary.
+
+
+
+46. The Debian Virtual Machine summary.
+
+
+
+47. The Windows 10 Virtual Machine summary.
+
+
+

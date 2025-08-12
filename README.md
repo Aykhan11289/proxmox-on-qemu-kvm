@@ -161,6 +161,6 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 
 
 47. The Windows 10 Virtual Machine summary.
-
+   ![image 46](images/54-install-proxmox-summary-windows-10-vm.png)
 
 

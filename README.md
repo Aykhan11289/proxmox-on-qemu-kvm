@@ -8,4 +8,4 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 1. First we should download the iso image file from Proxmox's official website. For this we can use the terminal command: wget https://enterprise.proxmox.com/iso/proxmox-ve_8.4-1.iso or you can visit https://www.proxmox.com/en/downloads and download the current version.
 
 2. Run the terminal command 'virt-manager' and create 'New virtual machine'. Set up 6GB RAM and 75GB hard drive (if you have more ram and hard disk capacity you can set up more). In the 'Operating system' section, choose Debian 12. Other sections leave 'default'. Start installation. After start you should see the Proxmox VE installation menu. Choose 'Install Proxmox VE(Graphical)'.
-![Installation of the Proxmox](images/00-install-proxmox.png)
+   ![image 1](images/00-install-proxmox.png)

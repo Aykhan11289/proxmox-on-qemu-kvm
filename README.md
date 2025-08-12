@@ -43,4 +43,7 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
 13. Whenever you start Proxmox VE, the 'No valid subscription' window always shows up, just press 'OK'.
    ![image 12](images/11-install-proxmox.png)
 
+14. Click the storage 'local' on node to see 'Summary'.
+   ![image 13](images/12-install-proxmox.png)
+
     

@@ -32,7 +32,7 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
    ![image 8](images/07-install-proxmox.png)
 
 10. After installation, you should see the IP address and port number. It will automatically reboot.
-   ![image 9](images/08-install-proxmox-upload-debian-image.png)
+   ![image 9](images/08-install-proxmox.png)
 
 11. After reboot it will run in command line mode. Open on your host machine web browser and access the IP address and port which have been given before.
    ![image 10](images/09-install-proxmox.png)
@@ -50,6 +50,6 @@ By the end of this guide, you'll have Proxmox installed and running in QEMU/KVM,
    ![image 14](images/13-install-proxmox.png)
 
 16. Click on 'Upload', it will open the 'Upload' window, press 'Select' to select iso from local files.
-   ![image 15](images/14-install-proxmox.png)
+   ![image 15](images/14-install-proxmox-upload-debian-image.png)
 
     
